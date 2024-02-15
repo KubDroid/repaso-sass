@@ -32,3 +32,6 @@ p {
 .caja-secundaria{
     @include caja_personalizada($fondo: gray, $color: red);
 }
+
+//Operadores
+
